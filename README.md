@@ -47,7 +47,7 @@ Matrices are commonly used in machine learning and data science to represent dat
 - Singular vs nonsingular matrices
 - Linear dependence and independence
 - The determinant
-- [Practice Quiz: Solving systems of linear equations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Practice-Quiz.md)
+- [Practice Quiz: Solving systems of linear equations](https://github.com/SahashRaee/Mathematics_for_Machine_Learning/blob/main/Course-1/Week-1/C1_W1_Practice-Quiz.md)
 - [Lab: Introduction to NumPy Arrays](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb)
 
 #### Lesson 2: Systems of Linear Equations: three variables
