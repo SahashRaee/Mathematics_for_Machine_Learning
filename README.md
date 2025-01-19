@@ -56,7 +56,7 @@ Matrices are commonly used in machine learning and data science to represent dat
 - Systems of equations as planes (3×3)
 - Linear dependence and independence (3×3)
 - The determinant (3×3)
-- [Quiz: Matrices](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Quiz.md)
+- [Quiz: Matrices](https://github.com/SahashRaee/Mathematics_for_Machine_Learning/blob/main/Course-1/Week-1/C1_W1_Quiz.md)
 - [Lab: Solving Linear Systems: 2 variables](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Lab_2_solving_linear_systems_2_variables.ipynb)
 
 ### Week 2: Solving systems of Linear Equations
