@@ -57,7 +57,7 @@ Matrices are commonly used in machine learning and data science to represent dat
 - Linear dependence and independence (3×3)
 - The determinant (3×3)
 - [Quiz: Matrices](https://github.com/SahashRaee/Mathematics_for_Machine_Learning/blob/main/Course-1/Week-1/C1_W1_Quiz.md)
-- [Lab: Solving Linear Systems: 2 variables](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Lab_2_solving_linear_systems_2_variables.ipynb)
+- [Lab: Solving Linear Systems: 2 variables](https://github.com/SahashRaee/Mathematics_for_Machine_Learning/blob/main/Course-1/Week-1/C1_W1_Lab_2_solving_linear_systems_2_variables.ipynb)
 
 ### Week 2: Solving systems of Linear Equations
 In this week, you will learn how to solve a system of linear equations using the elimination method and the row echelon form. You will also learn about an important property of a matrix: the rank. The concept of the rank of a matrix is useful in computer vision for compressing images.
